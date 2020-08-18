@@ -4,6 +4,7 @@ get number of pizzas that we need
 Select your topping
 Select other items
 Add the Wings
+Add bread sticks
 Log on into your account
 Enter in your address
 Pay for order
