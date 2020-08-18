@@ -1,11 +1,7 @@
 Decide which business to order from
-Decide which type of pizza to order
-get number of pizzas that we need
-Select your topping
-Select other items
-Add the Wings
-Add bread sticks
+Decide what to order(pizza, toppings, wings, bread sticks, etc)
 Log on into your account
+add item(s) on the order
 Enter in your address
 Pay for order
 Invite Friends
