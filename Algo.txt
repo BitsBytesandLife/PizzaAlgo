@@ -2,6 +2,7 @@ Decide which business to order from
 Decide which type of pizza to order
 Select your topping
 Select other items
+Add the Wings
 Log on into your account
 Enter in your address
 Pay for order
