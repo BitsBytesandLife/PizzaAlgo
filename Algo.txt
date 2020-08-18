@@ -1,4 +1,5 @@
 Decide which business to order from
+Check Deals
 Decide which type of pizza to order
 Select your topping
 Select other items
