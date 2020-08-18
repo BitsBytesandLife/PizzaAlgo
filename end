@@ -1,0 +1,29 @@
+[33mcommit 487a854dbf52e267a7555196629642e5f2c5ba96[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: BK <brian_j_king@me.com>
+Date:   Tue Aug 18 10:52:53 2020 -0500
+
+    pizza party steps
+
+[33mcommit 88a44e4ff853e0786b38acb5423475d1386150ea[m
+Author: BK <brian_j_king@me.com>
+Date:   Tue Aug 18 10:45:13 2020 -0500
+
+    added pay steps and add address
+
+[33mcommit 8bb91d07af18b043ad2416d62c317a7caef3458a[m
+Author: BK <brian_j_king@me.com>
+Date:   Tue Aug 18 10:41:43 2020 -0500
+
+    log in to account step
+
+[33mcommit fc3ece548f5bc63ce2b636d96c144c3cb9885f96[m
+Author: BK <brian_j_king@me.com>
+Date:   Tue Aug 18 10:38:37 2020 -0500
+
+    added order step more pick your topping and other items
+
+[33mcommit b64a13ad527e94f743cfc3db13a3648be6cff6e9[m
+Author: BK <brian_j_king@me.com>
+Date:   Tue Aug 18 10:28:29 2020 -0500
+
+    added order step
