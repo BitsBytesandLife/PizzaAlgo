@@ -1,5 +1,6 @@
 Decide which business to order from
 Decide which type of pizza to order
+get number of pizzas that we need
 Select your topping
 Select other items
 Add the Wings
